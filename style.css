@@ -51,6 +51,7 @@ h1{
 .inputTodo button{
     width: 20%;
     background-color: rgb(255, 0, 0);
+    cursor: pointer;
 }
 
 .inputTodo button:hover{
@@ -81,6 +82,7 @@ span{
 .text{
     width: 70%;
     overflow: hidden;
+    font-weight: bold;
 }
 
 .done_cut{
@@ -93,6 +95,7 @@ span{
     border-radius: 5px;
     outline: none;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .done_cut button:hover{
